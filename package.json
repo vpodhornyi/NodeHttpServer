@@ -1,0 +1,17 @@
+{
+  "name": "nodehttpserver",
+  "version": "1.0.0",
+  "description": "base node js http server with server rendering html",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "viktor podhornyi",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "url": "^0.11.0"
+  }
+}
