@@ -4,7 +4,7 @@
   "description": "base node js http server with server rendering html",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node app/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "viktor podhornyi",
